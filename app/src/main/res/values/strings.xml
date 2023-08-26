@@ -1,9 +1,12 @@
 <resources>
-    <string name="app_name">BMI</string>
+    <string name="app_name">MyGym</string>
     <string name="aboutapp">Check Your BMI</string>
     <string name="HeightINC">Enter your height(In feet)</string>
     <string name="HeightFT">Enter Your height (In Inch)</string>
     <string name="Weight">Enter your Weight</string>
     <string name="Result"> Result </string>
-
+    <string name="UserName"> Email or Username </string>
+    <string name="Password"> Password </string>
+    <string name="SignIn"> Sign In </string>
+    <string name="LoginwithEmailorMobile"> Login with Email or Mobile </string>
 </resources>
